@@ -1,0 +1,76 @@
+
+[
+  {
+    "id": 1,
+    "name": "Chicken Meal",
+    "category": "Meals",
+    "price": 75,
+    "stock": 25,
+    "icon": "🍗",
+    "image": "images/chicken-meal.jpg"
+},
+  {
+    "id": 2,
+    "name": "Siomai Rice",
+    "category": "Meals",
+    "price": 55,
+    "stock": 18,
+    "icon": "🍚",
+    "image": "images/siomairice.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Burger",
+    "category": "Snacks",
+    "price": 45,
+    "stock": 30,
+    "icon": "🍔",
+    "image": "images/burger.jpg"
+  },
+  {
+    "id": 4,
+    "name": "French Fries",
+    "category": "Snacks",
+    "price": 35,
+    "stock": 12,
+    "icon": "🍟",
+    "image": "images/fries.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti",
+    "category": "Meals",
+    "price": 60,
+    "stock": 20,
+    "icon": "🍝",
+    "image": "images/spag.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bottled Water",
+    "category": "Drinks",
+    "price": 20,
+    "stock": 50,
+    "icon": "💧",
+    "image": "images/water.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Iced Tea",
+    "category": "Drinks",
+    "price": 30,
+    "stock": 8,
+    "icon": "🥤",
+    "image": "images/icetea.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Bread",
+    "category": "Snacks",
+    "price": 25,
+    "stock": 14,
+    "icon": "🥐",
+    "image": "images/bread.jpg"
+  }
+]
